@@ -9,5 +9,5 @@ Documentation targeting the end user with [Quarto](https://quarto.org/docs/autho
 - Jupyter notebooks with worked examples to be used within the TRE are given in `docs/notebooks`
 - corresponsing `requirements.txt` files are given per-notebook
 
-Please do contribute!
+Please do contribute! Thanks
 
